@@ -1,5 +1,3 @@
-# 🚀 João Pedro | Mobile Developer
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Mobile%20Developer&fontSize=40&fontColor=fff&animation=twinkling"/>
 </div>
@@ -94,8 +92,8 @@ func (s *AuthService) ValidateToken(token string) (*User, error) {
 | **Período** | **Foco** | **Status** |
 |-------------|----------|-----------|
 | 2023-2027   | **Ciência da Computação** | 🎓 Em andamento |
-| 2024        | **Mobile Development** | ✅ Especialização |
-| 2024-2025   | **Cloud & DevOps** | 📚 Estudando |
+| 2023 - ...        | **Mobile Development** | ✅ Desde 2023 |
+| 2024-2025   | **Cloud & DevOps** | 📚 Aprimorando |
 
 </div>
 
@@ -113,7 +111,7 @@ func (s *AuthService) ValidateToken(token string) (*User, error) {
 
 ```yaml
 Mobile Developer:
-  - Apps em produção com +1k usuários
+  - Apps em produção com +1k usuários ( HC Brito (app de ordem de serviço))
   - Integração com Firebase (Auth, Firestore, Storage)
   - APIs REST e GraphQL
   - Performance optimization & debugging
