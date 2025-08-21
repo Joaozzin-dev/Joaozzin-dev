@@ -91,7 +91,7 @@ func (s *AuthService) ValidateToken(token string) (*User, error) {
 
 | **Período** | **Foco** | **Status** |
 |-------------|----------|-----------|
-| 2023-2027   | **Ciência da Computação** | 🎓 Em andamento |
+| 2025-2030   | **Ciência da Computação** | 🎓 Em andamento |
 | 2023 - ...        | **Mobile Development** | ✅ Desde 2023 |
 | 2024-2025   | **Cloud & DevOps** | 📚 Aprimorando |
 
@@ -146,7 +146,7 @@ Backend Skills:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://joaozzin-dev.github.io/professional-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-8a440627a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_pedro2917)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jprodrigues.sz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
 
 </div>
