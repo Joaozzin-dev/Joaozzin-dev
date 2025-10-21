@@ -14,7 +14,7 @@
 
 ```typescript
 const joaoPedro = {
-  idade: 19,
+  idade: 20,
   universidade: "Universidade de Brasília (UnB)",
   curso: "Ciência da Computação",
   especialidade: "Desenvolvimento Mobile",
@@ -130,7 +130,7 @@ Backend Skills:
 
 <div align="center">
 
-🌟 **19 anos, já criando o futuro mobile**  
+🌟 **20 anos, já criando o futuro mobile**  
 🎯 **Foco total em UX/UI incríveis**  
 ⚡ **TypeScript é vida**  
 🚀 **Firebase é meu playground**  
@@ -147,7 +147,7 @@ Backend Skills:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://joaozzin-dev.github.io/professional-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-8a440627a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jprodrigues.sz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redjp15@gmail.com)
 
 </div>
 
